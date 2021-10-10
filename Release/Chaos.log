@@ -1,0 +1,19 @@
+﻿  ChaosEquation.cpp
+D:\programming\cpp\Chaos\src\ChaosEquation.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\programming\cpp\Chaos\src\ChaosEquation.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\programming\cpp\Chaos\src\ChaosEquation.cpp(53,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\programming\cpp\Chaos\src\ChaosEquation.cpp(53,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Engine.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 151 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chaos.vcxproj -> D:\programming\cpp\Chaos\Release\Chaos.exe
